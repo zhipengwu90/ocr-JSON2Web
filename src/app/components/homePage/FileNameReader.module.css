@@ -1,0 +1,21 @@
+.errorLink {
+  text-align: center;
+}
+
+.errorLink a {
+  text-decoration: none;
+  color: red;
+}
+.errorLink a:hover {
+  color: #000000;
+  text-decoration: underline;
+}
+.logButton {
+  position: absolute;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+.logButton:hover {
+  color: red;
+}
